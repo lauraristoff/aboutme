@@ -1,0 +1,152 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #0f4c75;
+  font-family: 'Sacramento', cursive;
+  font-size: 6.25rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #3282b8;
+  font-family: 'Alata', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h3 {
+  color: #3282b8;
+  font-family: 'Alata', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-color: #EAF6F6;
+  border-width: 7px;
+}
+
+p { line-height: 2;
+}
+
+a {
+  color: #3282b8;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+.bio-info {
+  width: 60%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #bbe1fa;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.btn {
+  background: #3282b8;
+  background-image: -webkit-linear-gradient(top, #3282b8, #0f4c75);
+  background-image: -moz-linear-gradient(top, #3282b8, #0f4c75);
+  background-image: -ms-linear-gradient(top, #3282b8, #0f4c75);
+  background-image: -o-linear-gradient(top, #3282b8, #0f4c75);
+  background-image: linear-gradient(to bottom, #3282b8, #0f4c75);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 11px 11px 11px 11px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #bbe1fa;
+  background-image: -webkit-linear-gradient(top, #bbe1fa, #3282b8);
+  background-image: -moz-linear-gradient(top, #bbe1fa, #3282b8);
+  background-image: -ms-linear-gradient(top, #bbe1fa, #3282b8);
+  background-image: -o-linear-gradient(top, #bbe1fa, #3282b8);
+  background-image: linear-gradient(to bottom, #bbe1fa, #3282b8);
+  text-decoration: none;
+}
+
+.contact-me {
+  padding: 50px 100px 50px 100px;
+}
+.contact-message {
+  padding-bottom: 50px;
+}
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+.footer-link {
+  color:
+}
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.profile {
+  line-height: 2;
+  padding: 50px 100px 50px 100px;
+}
+
+.profile-img {
+  width: 20%;
+}
+
+.skills {
+  padding: 50px
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding-bottom: 100px;
+  text-align: left;
+}
+
+.teacher-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px
+}
+
+.top-container {
+  background-color: #bbe1fa;
+  position: relative;
+  padding-top: 100px;
+}
